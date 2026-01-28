@@ -2,6 +2,6 @@
 2. Put all the java commands for running java in a bat file(in case of windows) .sh(file in case of linux and run java program).
 3. We can run a program which takes input and throw an output in the console using bat file(.sh file in linux).
 4. SET /P is used to prompt user with a message and let the user enter an input.
-few examples of bat programs are given in these projects. 
+Few examples of bat programs are given in these projects. 
 1. it takes user input which is an equation and gives the result back. (calculator.bat)
 2. Takes input from users and run a java program with this input, to show the result. (calculate_wt_java.bat)

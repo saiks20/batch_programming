@@ -1,0 +1,4 @@
+#ignore all .idea files
+.idea/*
+/out/*
+batch_programming.iml
